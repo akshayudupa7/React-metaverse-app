@@ -1,0 +1,46 @@
+.header h5{
+    color:rgb(35, 172, 8) !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 50px;
+    letter-spacing: 2px;
+   
+  
+}
+.header p{
+    color:rgb(237, 143, 143);
+ 
+   font-size: 16px;
+    font-weight: 200;
+    line-height: 27px;
+    letter-spacing: 0.1em;
+     text-align: left;
+    padding: 2em 0em;
+}
+.header_image{
+    width:70%;
+}
+.header button{
+    width:120px;
+    outline: none;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    padding: 1em;
+    background-color: rgb(4, 2, 2);
+    color:#fff;
+    font-size: 12px;
+}
+.header button:hover{
+    color: black;
+    background-color: rgb(224, 154, 154);
+}
+.header{
+    padding: 2em 0em 3em 0em;
+}
+.gradient_via_text{
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+   -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   background-clip: text;
+}

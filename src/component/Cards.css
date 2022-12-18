@@ -1,0 +1,14 @@
+.card{
+    padding: 0px;
+    margin-bottom: 25px;
+   
+}
+.card-body{
+        background-image: linear-gradient(to bottom, rgb(41, 9, 93) , rgb(21, 106, 190));
+    
+}
+.card-body p{
+    color:azure;
+    text-align: center;
+    padding-bottom: 1em;
+}

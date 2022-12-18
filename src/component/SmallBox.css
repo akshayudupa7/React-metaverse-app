@@ -1,0 +1,44 @@
+.Small_Box_Main{
+    background-image: linear-gradient(to right, rgb(107, 11, 11) , rgb(19, 6, 81));
+    width:60%;
+   padding: 4em 1em;
+   margin-top: 2em;
+}
+.small_box{
+    width:100%;
+    padding: 4em 0em;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+   
+}
+.Small_Box_Main h5{
+    font-size: 24px;
+    color:#fff;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+.Small_Box_Main p{
+    font-size: 14px;
+    color:rgb(218, 180, 132);
+    font-size: 16px;
+    font-weight: 100;
+
+}
+.Small_Box_Main button{
+    width:120px;
+    border:none;
+    outline: none;
+    background-color: black;
+    color:#fff;
+    font-size: 12px;
+    border-radius:20px 20px 20px 20px;
+    padding: 1em 2em;
+}
+.Small_Box_Main button:hover{
+   
+    background-color: rgb(239, 153, 153);
+    color:#000;
+   
+}
+

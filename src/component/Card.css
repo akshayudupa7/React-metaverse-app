@@ -1,0 +1,59 @@
+.Card_main{
+    width:80%;
+    margin: auto;
+ 
+}
+.card{
+    width:100%;
+   
+}
+img.card-img-top{
+    width:100%;
+    height:14vmax;
+}
+.Card1_image img{
+    width:100%;
+    height:30vmax;
+}
+.Card1_image p{
+     padding:1.8em 0em;
+}
+
+.Card_main{
+    width:90%;
+     margin: auto;
+  
+}
+
+.Card_verse{
+    margin-bottom: 30px;
+}
+@media(max-width:767px){
+    .Card_main{
+       width:60%;
+       
+    }
+    img.card-img-top{
+       
+        height:32vmax;
+    }
+    .Card_main{
+        padding: 2em 0em;
+     
+    }
+    
+}
+@media(max-width:500px){
+    .Box_In h5{
+     
+       font-size: 1.6em;
+     
+    }
+}
+@media(max-width:300px){
+    .Box_In h5{
+     
+        font-size: 1em;
+      
+     }
+}

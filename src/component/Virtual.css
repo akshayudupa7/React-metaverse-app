@@ -1,0 +1,32 @@
+.virtual_main{
+    width:80%;
+      padding: 2em 0em;
+      margin: auto;
+      color: #fff;
+}
+.virtual_main img{
+    width:80%
+}
+.virtual_in{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.virtual{
+  width:100%;
+
+}
+.virtual_in p{
+  color:rgb(224, 123, 123);
+  font-size: 16px;
+font-weight: 100;
+line-height: 30px;
+
+text-align: left;
+
+}
+.virtual_in h4{
+  font-size: 34px;
+line-height: 45px;
+padding-top: 2em;
+}

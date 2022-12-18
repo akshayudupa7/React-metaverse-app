@@ -1,0 +1,27 @@
+.Footer_heading{
+    text-align: center;
+}
+.footer_lower p{
+  color:rgb(236, 131, 131);
+}
+.footer_lower h6{
+    color:#fff;
+    font-size: 1em;
+    font-weight: 400;
+}
+.Footer_heading  button{
+    background-color: black;
+    color:#fff;
+    font-size: 12px;
+    width:120px;
+    padding: 1em;
+    border-radius: 20px;
+    margin: 2em 0em;
+    border: none;
+}
+.Footer_heading  button:hover{
+    background-color: rgb(210, 138, 138);
+    color:#000;
+
+  
+}
