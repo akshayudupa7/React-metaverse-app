@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-metaverse-app/static/css/main.ef032250.css",
+    "main.js": "/React-metaverse-app/static/js/main.8bb95842.js",
+    "static/media/box_1_img.jpg": "/React-metaverse-app/static/media/box_1_img.d64ff4652d6c321b91a1.jpg",
+    "static/media/box_5_img.jpg": "/React-metaverse-app/static/media/box_5_img.8d410efc7a6606aba081.jpg",
+    "static/media/box_3_img.jpg": "/React-metaverse-app/static/media/box_3_img.4d3e0a7f33f07cf2f85a.jpg",
+    "static/media/ai.png": "/React-metaverse-app/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/box_2_img.jpg": "/React-metaverse-app/static/media/box_2_img.c79cd116465eb2b7dd2c.jpg",
+    "static/media/possibility.png": "/React-metaverse-app/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/meta.jpg": "/React-metaverse-app/static/media/meta.53bf85b66dcfb291aee7.jpg",
+    "static/media/box_4_img.jpg": "/React-metaverse-app/static/media/box_4_img.76cc60c298d9d15599d4.jpg",
+    "index.html": "/React-metaverse-app/index.html",
+    "main.ef032250.css.map": "/React-metaverse-app/static/css/main.ef032250.css.map",
+    "main.8bb95842.js.map": "/React-metaverse-app/static/js/main.8bb95842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef032250.css",
+    "static/js/main.8bb95842.js"
+  ]
+}
